@@ -47,5 +47,5 @@ Ready to experience the pinnacle of digital media? Join our Discord community to
 
 ---
 <p align="center">
-  <i>BINGEKINGS & BK-Media © 2026 | Built for the Elite.</i>
+  <i>BINGEKINGS © 2026 | Built for the Elite.</i>
 </p>
